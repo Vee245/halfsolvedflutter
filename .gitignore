@@ -8,7 +8,8 @@
 .buildlog/
 .history
 .svn/
-
+#Firebase
+android/app/google-services.json
 # IntelliJ related
 *.iml
 *.ipr

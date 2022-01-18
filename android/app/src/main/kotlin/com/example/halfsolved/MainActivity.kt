@@ -1,4 +1,4 @@
-package com.example.halfsolved
+package com.kui.halfsolved
 
 import io.flutter.embedding.android.FlutterActivity
 
